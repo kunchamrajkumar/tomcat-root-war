@@ -104,5 +104,10 @@
         <name>ip-172-31-92-74-snapshots</name>
         <url>http://44.202.0.24:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
+       <repository>
+        <id>central</id>
+        <name>ip-172-31-92-74-releases</name>
+        <url>http://44.202.0.24:8081/artifactory/libs-release-local</url>
+    </repository>
    </distributionManagement>
 </project>
